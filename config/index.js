@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "o9XPa6XZNOwMj7sCW7vws5WleBtE",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "4rgW-ul8nEvkSrw6xVCrQGkcAihGl5II3XGG54hZzKA",
+      useTemplateId: "kvwU4UlOh1f6rAwtB7drVzIqXwxFfeG8pwc292Vu2lY",
       // 所在省份
       province: "北京",
       // 所在城市
@@ -46,7 +46,7 @@ export const config = {
     {
       name: "戚明华", 
       id: "o9XPa6aOUgNvLU9RZB5msfLBk4Ns",
-      useTemplateId: "4rgW-ul8nEvkSrw6xVCrQGkcAihGl5II3XGG54hZzKA",
+      useTemplateId: "jIQOmR-Ck_3vndsD_k_0cTcK5zUqgcsy4xSL5BDCj8U",
       province: "北京",
       city: "北京",
       openUrl: "https://wangxinleo.cn"
@@ -90,7 +90,7 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "臭宝", "year": "1996", "date": "09-02"},
+    {"type": "生日", "name": "臭宝", "year": "1996", "date": "06-23"},
     //{"type": "节日", "name": "结婚纪念日", "year": "2022", "date": "09-18"},
   ],
 
